@@ -8,7 +8,6 @@ Aplicação web em **PHP** que consome uma **API pública** (REST Countries), re
 
 ## 📸 Telas do sistema
 
-> 📌 **Onde colocar os prints:** salve as imagens na pasta [`docs/prints/`](docs/prints) com os nomes abaixo. Os links já estão prontos — ao subir as imagens para o GitHub, elas aparecem automaticamente aqui.
 
 ### Página inicial
 ![Página inicial](https://i.postimg.cc/FsG0NWSN/01-pagina-inicial.png)
