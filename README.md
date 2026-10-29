@@ -14,13 +14,13 @@ Aplicação web em **PHP** que consome uma **API pública** (REST Countries), re
 ![Página inicial](https://i.postimg.cc/FsG0NWSN/01-pagina-inicial.png)
 
 ### Resultado de uma consulta (ex.: Brasil)
-![Resultado da consulta](docs/prints/02-resultado.png)
+![Resultado da consulta](https://i.postimg.cc/qMQ24bKB/02-resultado.png)
 
 ### Consulta com vários resultados (ex.: "united")
-![Vários resultados](docs/prints/03-varios-resultados.png)
+![Vários resultados](https://i.postimg.cc/NfbRBJXs/03-varios-resultados.png)
 
 ### País não encontrado / erro de validação
-![Mensagem de erro](docs/prints/04-erro.png)
+![Mensagem de erro](https://i.postimg.cc/PrdmGsC5/04-erro.png)
 
 ---
 
