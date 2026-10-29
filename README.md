@@ -11,7 +11,7 @@ Aplicação web em **PHP** que consome uma **API pública** (REST Countries), re
 > 📌 **Onde colocar os prints:** salve as imagens na pasta [`docs/prints/`](docs/prints) com os nomes abaixo. Os links já estão prontos — ao subir as imagens para o GitHub, elas aparecem automaticamente aqui.
 
 ### Página inicial
-![Página inicial](docs/prints/01-pagina-inicial.png)
+![Página inicial](https://i.postimg.cc/FsG0NWSN/01-pagina-inicial.png)
 
 ### Resultado de uma consulta (ex.: Brasil)
 ![Resultado da consulta](docs/prints/02-resultado.png)
